@@ -6,6 +6,7 @@ return: null
 Author: muke
 Date: 2017-7-13
 Modify: 2018-06-05
+this file  nedd    mknod  insmod mycdev.ko  &&   mknod /dev/mycdev c 241 0
 *******************************************************************/
 
 #include <linux/module.h>
